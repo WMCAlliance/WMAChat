@@ -1,0 +1,5 @@
+name: Chat
+version: 1.0
+description: This plugin implements a chat system
+author: tjetson
+main: me.tjetson.chat.Chat
