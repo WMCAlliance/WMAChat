@@ -3,8 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>me.tjetson.chat</groupId>
-  <artifactId>wmachat</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>WMAChat</artifactId>
   <packaging>jar</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +32,7 @@
 
   <build>
     <sourceDirectory>src/</sourceDirectory>
-    <finalName>${artifactId}-${version}</finalName>
+    <finalName>dev-${artifactId}-${version}</finalName>
 	<resources>
 		<resource>
 			<directory>${project.basedir}/src</directory>
