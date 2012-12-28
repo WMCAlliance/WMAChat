@@ -35,7 +35,7 @@
     <sourceDirectory>src/</sourceDirectory>
 	<resources>
 		<resource>
-			<directory>${project.basedir}</directory>
+			<directory>${project.basedir}/src</directory>
 			<filtering>true</filtering>
 			<includes>
 				<include>plugin.yml</include>
