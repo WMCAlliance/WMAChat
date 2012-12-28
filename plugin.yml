@@ -1,0 +1,5 @@
+name: WMAChat
+version: 1.0
+description: This plugin implements a fairly basic chat system, but will be improved upon in time.
+author: Worldwide Minecraft Alliance Dev Team
+main: me.tjetson.chat.Chat
