@@ -37,6 +37,9 @@
 		<resource>
 			<directory>${project.basedir}</directory>
 			<filtering>true</filtering>
+			<includes>
+				<include>plugin.yml</include>
+			</includes>
 		</resource>
 	</resources>
          <plugins>
