@@ -9,6 +9,13 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <dependencies>
+  	<dependency>
+		<groupId>org.bukkit</groupId>
+		<artifactId>craftbukkit</artifactId>
+		<version>1.4.5-R0.3-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 
   <repositories>
     <repository>
