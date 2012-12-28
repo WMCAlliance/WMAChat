@@ -10,7 +10,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
-    </properties>
     <repositories>
         <repository>
             <id>bukkit-repo</id>
