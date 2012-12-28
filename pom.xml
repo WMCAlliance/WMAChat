@@ -33,6 +33,7 @@
 
   <build>
     <sourceDirectory>src/</sourceDirectory>
+    <finalName>${artifactId}-${version}</finalName>
 	<resources>
 		<resource>
 			<directory>${project.basedir}/src</directory>
